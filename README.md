@@ -1,2 +1,2 @@
-z0y1.github.com
+z0y1.github.io
 ===============
